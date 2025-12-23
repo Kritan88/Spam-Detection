@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+AML_Retake/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (uncomment if you don't want to track these)
+# *.csv
+# *.json
+# *.pkl
+
+# Models (uncomment if you don't want to track large files)
+# *.h5
+# *.model
+# *.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
